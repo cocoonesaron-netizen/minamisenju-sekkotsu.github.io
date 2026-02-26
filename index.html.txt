@@ -1,6 +1,0 @@
-/index.html
-/traffic-accident.html
-/images/fv_consultation.png
-/images/insurance.png
-/images/flow.png
-/images/neck_pain.png
